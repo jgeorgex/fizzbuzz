@@ -21,5 +21,4 @@ describe '#fizzbuzz' do
   it 'returns "fizzbuzz" when passed 150' do
     expect(fizzbuzz(150)).to eq 'fizzbuzz'
   end
-
 end
