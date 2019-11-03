@@ -9,5 +9,3 @@ def fizzbuzz(number)
     return number
   end
 end
-
-p fizzbuzz(30)
