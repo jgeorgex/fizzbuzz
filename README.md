@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/jgeorgex/fizzbuzz.svg?branch=master)](https://travis-ci.com/jgeorgex/fizzbuzz)
+
 The old classic Fizzbuzz!
 
 You probably already know how this works but if not heres a quick breakdown:
